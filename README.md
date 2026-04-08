@@ -81,8 +81,7 @@ OUR REPO/
 │       ├── fig8_stability.png
 │       ├── fig9_feature_selection.png
 │       └── fig10_ensemble.png
-│
-├── report/                                     # Report for submission
+│                                     
 ├── requirements.txt                            # Python dependencies
 └── README.md                                   # You're reading this
 ```
