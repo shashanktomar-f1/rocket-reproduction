@@ -1,0 +1,26 @@
+# Data (too large for git)
+data/*
+!data/.gitkeep
+
+# Report (not for git)
+report/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
